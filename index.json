@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "agentskills",
+  "versions": [
+    {
+      "commit": "752b29a0a1a128b7baa6aad23203f6433cc0b24b",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:14:21.607679+00:00"
+    }
+  ]
+}
