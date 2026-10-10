@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/agentskills/commit/752b29a0a1a128b7baa6aad23203f6433cc0b24b",
       "git:hexsha": "752b29a0a1a128b7baa6aad23203f6433cc0b24b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
